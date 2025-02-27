@@ -2,3 +2,9 @@ entorno/
 .env
 __pycache__/
 *.pyc
+finiquitos
+dt_bot.log
+sigo.log
+ruts.txt
+sigo_rut.log
+sigo_subido.log
